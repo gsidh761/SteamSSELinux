@@ -18,4 +18,4 @@ Run the following command to install SteamSSELinux:
 
 **Launching the Emulator**
 
-After the installation, launch the emulator using the SteamSSE Emulator shortcut from the Start Menu.
+After the installation, launch the emulator using the SteamSSE Emulator shortcut from the Start Menu or using the `launch_steem` command.
