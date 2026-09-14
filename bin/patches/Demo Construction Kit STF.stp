@@ -1,0 +1,14 @@
+[Text]
+
+Description=Bypass protection, no guarantee
+ApplyWhen=Before entering password
+Version=STF, TOS 1.00, 1024K
+PatchAuthor=Steven
+
+[Check]
+
+012B32 = $6706
+
+[Patch]
+
+012B32 = $6006

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=SteamSSE Emulator
+Exec=/usr/local/bin/SteemSSELinux/bin/xsteem64
+Icon=/usr/local/bin/SteemSSELinux/assets/logo.png
+Categories=Game;Emulator;
+Keywords=Atari;ST;
+Path=/usr/local/bin/SteemSSELinux/
+
