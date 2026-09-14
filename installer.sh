@@ -1,3 +1,6 @@
+echo "SteamSSELinux v1.0.0"
+echo "Made By Gureet Sidhu (@gsidh761)"
+echo ""
 echo "Setting Up Enviroment..."
 sudo cp -r ../SteemSSELinux/ /usr/local/bin/
 echo "Installing Libs..."
