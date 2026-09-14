@@ -1,0 +1,6 @@
+PASSWORD=$(zenity --password --title="SteemSSE Linux Root Auth")
+if [ ! -z "$PASSWORD" ]; then
+    echo "$PASSWORD" | sudo -S /usr/local/bin/SteemSSELinux/bin/xsteem64
+fi
+
+#/usr/local/bin/SteemSSELinux/bin/xsteem64

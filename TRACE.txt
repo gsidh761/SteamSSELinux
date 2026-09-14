@@ -1,0 +1,6 @@
+./TRACE.txt 09/14/26 12:13:07
+Steem SSE v4.2.0 R11 64bit (built Jun 29 2026 - 05:51:27) 
+GCC
+steem.ini $4
+disk image list.txt 0
+Already running 1 Crashed last time 0
