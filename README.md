@@ -4,7 +4,9 @@ v1.0.0 (Based on Steam SSE 4.2.0)
 <br>
 
 > [!WARNING] 
-> This project currently only supports distros with the DNF Package Manager!
+> This project currently only supports distros with the DNF Package Manager! 
+> 
+> As a workaround, run `installer.sh` and then manually install **xorg-x11-server-Xwayland** using your distro's package manager
 
 <br>
 
