@@ -1,4 +1,5 @@
-# SteamSSELinux v1.0.0
+# SteamSSELinux
+v1.0.0 (Based on Steam SSE 4.2.0)
 
 **Installation**
 
