@@ -1,4 +1,4 @@
-# SteamSSELinux
+# SteamSSE Linux
 v1.0.0 (Based on Steam SSE 4.2.0)
 
 <br>
