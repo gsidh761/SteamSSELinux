@@ -5,6 +5,9 @@ echo "Setting Up Enviroment..."
 sudo cp -r ../SteemSSELinux/ /usr/local/bin/
 echo "Installing Libs..."
 sudo cp ./libs/* /usr/lib
+sudo cp ./libs/* /usr/lib64
+sudo cp ./libs/* /usr/local/lib
+sudo cp ./libs/* /usr/local/lib64
 echo "Installing XWayland to fix crashes on launch..."
 sudo dnf install xorg-x11-server-Xwayland
 echo "Installing Start Menu Shortcut..."
