@@ -1,13 +1,13 @@
 [Main]
-Left=432
-Top=214
+Left=50
+Top=124
 Width=642
 Height=423
 Maximized=0
 FontSize=12
 BigIcons=0
 GoToFullscreenOnRun=0
-LastSnapShot=/usr/local/bin/SteemEmulator/snapshots64/
+LastSnapShot=/home/gureet/Documents/SteemSSELinux/bin/snapshots64/
 SnapShotHistory0=
 SnapShotHistory1=
 SnapShotHistory2=
@@ -59,8 +59,8 @@ Maximized=0
 FSWidth=0
 FSHeight=0
 FSMaximized=0
-CurrentFolder=/usr/local/bin/SteemEmulator
-HomeFolder=/usr/local/bin/SteemEmulator
+CurrentFolder=/home/gureet/Documents/SteemSSELinux/bin
+HomeFolder=/home/gureet/Documents/SteemSSELinux/bin
 Disk_A_Path=
 Disk_A_Name=
 Disk_A_DiskInZip=
@@ -1352,7 +1352,7 @@ HighPriority=0
 EmuThread=0
 AutoSnapShotName64=auto64
 RunSpeed=1000
-ScreenShotFol=/usr/local/bin/SteemEmulator/screenshots
+ScreenShotFol=/home/gureet/Documents/SteemSSELinux/bin/screenshots
 ScreenShotFormat=0
 ScreenShotMinSize=0
 NewMemConf0=-1
@@ -1363,8 +1363,8 @@ NewStModel=-1
 TOSSortDescend=0
 TOSSort=0
 StartOnClick=0
-MacroDir=/usr/local/bin/SteemEmulator/macros
-ProfileDir=/usr/local/bin/SteemEmulator/config
+MacroDir=/home/gureet/Documents/SteemSSELinux/bin/macros
+ProfileDir=/home/gureet/Documents/SteemSSELinux/bin/config
 MacroSel=
 ProfileSel=
 FSQuitAskFirst=1
@@ -1418,7 +1418,7 @@ RandomWakeup=1
 BlitterWakeup=4
 Mfp_xtal=2457600
 CpuCustomHz=8021247
-ROM_File=/usr/local/bin/SteemEmulator/tos.img
+ROM_File=roms/tos.img
 ROM_Add_Dir=/home/gureetsidhu/Downloads/Steem.SSE.4.2.0.Linux64
 Cart_File=
 LastCartFile=/home/gureetsidhu/Downloads/Steem.SSE.4.2.0.Linux64/
@@ -1564,13 +1564,13 @@ RoundWriteVC=1
 Page=0
 
 [Shortcuts]
-CurrentCutSel=/usr/local/bin/SteemEmulator/shortcuts/Default.stcut
+CurrentCutSel=/home/gureet/Documents/SteemSSELinux/bin/shortcuts/Default.stcut
 CurrentCutSelType=2
-CutDir=/usr/local/bin/SteemEmulator/shortcuts
-SelectedCutFile0=/usr/local/bin/SteemEmulator/shortcuts/Default.stcut
+CutDir=/home/gureet/Documents/SteemSSELinux/bin/shortcuts
+SelectedCutFile0=/home/gureet/Documents/SteemSSELinux/bin/shortcuts/Default.stcut
 SelectedCutFile1=
 
 [Patches]
 SelPatch=
-PatchDir=/usr/local/bin/SteemEmulator/patches
+PatchDir=/home/gureet/Documents/SteemSSELinux/bin/patches
 

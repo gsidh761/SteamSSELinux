@@ -1,4 +1,4 @@
-./TRACE.txt 09/14/26 10:35:40
+./TRACE.txt 09/16/26 09:41:57
 Steem SSE v4.2.0 R11 64bit (built Jun 29 2026 - 05:51:27) 
 GCC
 steem.ini $4
@@ -9,6 +9,9 @@ Bytes per pixel=4 Depth=24
 Load steem.ini
 Bytes per pixel=4 Depth=24
 POWER ON
-10:35:55 Leaving Steem
+
+09:42:00 Run
+09:42:08 Leaving Steem
+09:42:08 Stop
 Save steem.ini
 Save options.txt
