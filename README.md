@@ -5,7 +5,7 @@ v1.0.0 (Based on Steam SSE 4.2.0)
 
 **Installation**
 
-Run the following command to install SteamSSELinux:
+Download the project and run the following command to install SteamSSELinux:
 
 `./installer.sh`
 
