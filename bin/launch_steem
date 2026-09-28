@@ -1,1 +1,1 @@
-/usr/local/bin/SteemSSELinux/bin/xsteem64
+pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY /usr/local/bin/SteemSSELinux/bin/xsteem64
